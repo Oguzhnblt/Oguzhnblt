@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**Oguzhnblt/Oguzhnblt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,19 +9,24 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
+
 <h1 align="center">Hi 👋, I'm Oğuz</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oguzhnblt" alt="oguzhnblt" /></a> </p>
+
+- 🔭 I’m currently working on Website Development
 
 - 🌱 I’m currently learning **Python, Swift**
 
 - 💬 Ask me about **JS, HTML5, CSS, .NET Core**
 
 - 📫 How to reach me **oguzhanbolat0@gmail.com**
+
+- 😄 Pronouns: He/Him
+
+- ⚡ Fun fact: unbalanced 👀
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
