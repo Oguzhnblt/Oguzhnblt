@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, Swift**
 
-- 💬 Ask me about **JS, HTML5, CSS, .NET Core**
+- 💬 Ask me about **JS, HTML5, CSS, .NET Core, Swift**
 
 - 📫 How to reach me **oguzhanbolat0@gmail.com**
 
